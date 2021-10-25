@@ -7,3 +7,4 @@ main.py file is just a starter file to inhabit this github repo
 
 Loan_analyzer file is for module 1
 
+demo mode
