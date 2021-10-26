@@ -1,6 +1,6 @@
 # *FinTech Repository*
 
-![Github kitty.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.howtogeek.com%2F180167%2Fhtg-explains-what-is-github-and-what-do-geeks-use-it-for%2F&psig=AOvVaw2FLG6El2XlPCSFR7MVrpxp&ust=1635305335795000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCbkZ-R5_MCFQAAAAAdAAAAABAD)
+![Github kitty.](https://www.howtogeek.com/wp-content/uploads/2017/09/1-github-explained.png?width=1198&trim=1,1&bg-color=000&pad=1,1)
 
 ---
 
