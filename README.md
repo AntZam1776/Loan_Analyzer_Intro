@@ -1,5 +1,6 @@
 # Starter Setup
-For review and input on completed modules by AZamora
+
+To test and explor GitHub for use...
 
 This is coded to process loan data and create csv files with the appropriate data from input information.
 
