@@ -5,5 +5,5 @@ This is coded to process loan data and create csv files with the appropriate dat
 
 main.py file is just a starter file to inhabit this github repo
 
-Loan_analyzer file is for module 1
+
 
